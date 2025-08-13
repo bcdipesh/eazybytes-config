@@ -2,10 +2,10 @@ build:
   version: 1.0
 
 cards:
-  message: "Welcome to EazyBank cards related prod REST APIs"
+  message: Welcome to EazyBank cards related prod REST APIs
   contact-details:
-    name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@eazybank.com"
+    name: Reine Aishwarya - Product Owner
+    email: aishwarya@eazybank.com
   on-call-support:
-    - "(453) 392-4829"
-    - "(236) 203-1345"
+    - (453) 392-4829
+    - (236) 203-1345
