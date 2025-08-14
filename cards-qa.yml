@@ -1,11 +1,11 @@
 build:
-  version: 2
+  version: 1.0
 
 cards:
-  message: "Welcome to EazyBank accounts related QA APIs"
+  message: "Welcome to EazyBank cards related QA APIs"
   contact-details:
-    name: "Smitha Ray - QA Lead"
-    email: "smitha@eazybank.com"
+    name: "QA Cards Team"
+    email: "qa.cards@eazybank.com"
   on-call-support:
-    - "(666) 666-3765"
-    - "(666) 734-8371"
+    - "(777) 777-7777"
+    - "(666) 666-6666"
